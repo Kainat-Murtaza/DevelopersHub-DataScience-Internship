@@ -1,7 +1,24 @@
-# DevelopersHub-DataScience-Internship
-Data Science & Analytics Internship Tasks
+# DevelopersHub Corporation - Data Science & Analytics Internship
+
+Intern:Kainat MUrtaza  
+Duration: March 2026  
+Tasks Completed: 3 out of 5  
 
 ---
+
+##  Quick Overview
+
+This repository contains my completed tasks for the Data Science & Analytics Internship at DevelopersHub Corporation. I've completed 3 tasks that cover the core areas of data science: exploratory analysis, classification, and regression.
+
+| Task | Topic | Type | Status |
+|------|-------|------|--------|
+| Task 1 | Iris Dataset Analysis | Exploratory Data Analysis |  Complete |
+| Task 2 | Credit Risk Prediction | Binary Classification |  Complete |
+| Task 4 | Insurance Claim Prediction | Regression | Complete |
+
+---
+
+## Details
 
 ##  Task 1: Iris Dataset Analysis
 

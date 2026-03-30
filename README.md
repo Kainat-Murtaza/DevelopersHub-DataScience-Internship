@@ -1,6 +1,6 @@
 # DevelopersHub Corporation - Data Science & Analytics Internship
 
-Intern:Kainat MUrtaza  
+Intern:Kainat Murtaza  
 Duration: March 2026  
 Tasks Completed: 3 out of 5  
 
